@@ -1,0 +1,16 @@
+Context: Determining the method of data storage that mobile app will use.
+
+Options Considered:
+• SQLite
+• File Storage
+• User Defaults
+
+Decision:
+The decision is to use the File storage method for the data storage of the mobile app.
+
+Rationale
+• Efficient at storing a large amount of images.
+• Optimized at finding at retrieving data.
+
+Consequences
+• Not as good performance when compared to other options.

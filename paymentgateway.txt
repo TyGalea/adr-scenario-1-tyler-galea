@@ -1,0 +1,18 @@
+Context: Determining the best payment gateway for the mobile app.
+
+Options Considered:
+• Square
+• Moneris
+• PayPal
+
+Decision:
+The decision is to use PayPal for the mobile app.
+
+Rationale
+• Payments will be secure.
+• Has a wide reach for international users as it accepts a variety of currencies.
+• Simple and accessible for users.
+
+Consequences
+• Inconsistent usage fees.
+• PayPal is lacking when it comes to customer service.

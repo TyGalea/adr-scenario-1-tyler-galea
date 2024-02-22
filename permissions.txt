@@ -1,0 +1,18 @@
+Context: Determining what permissions the mobile app will have access to.
+
+Options Considered:
+• Tracking users viewing and interactions with the app
+• Location tracking
+• Allowing push notifications
+
+Decision:
+The decision is made to require the permissions of tracking user interaction and
+allowing push notifications when using the app.
+
+Rationale
+• Tracking user interaction will improve user experience by suggesting similar products
+to the ones the user views the most.
+• Push notifications will allow the app to alert the user of special offers and delivery status.
+
+Consequences
+• Requiring tracking of user interaction will lose users that are concerned about their privacy.

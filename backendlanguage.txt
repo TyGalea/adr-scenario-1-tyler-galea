@@ -1,0 +1,19 @@
+Context: Determining the backend language that the mobile app will be developed with.
+
+Options Considered:
+• javascript
+• python
+• C#
+• java
+• Node.js
+
+Decision:
+The decision is made to develop the mobile app with javascript.
+
+Rationale
+• Compatibale with all platforms.
+• Is more efficient and performs better than other languages.
+• Less load on the company’s severs as the code runs on the client side.
+
+Consequences
+• The users will have access to the javascript code which could pose possible security risk.

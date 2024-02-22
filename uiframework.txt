@@ -1,0 +1,19 @@
+Context: Determining the UI framework that the mobile app will use.
+
+Options Considered:
+• React
+• Vue.js
+• Sevelte
+
+Decision:
+The decision is made for the mobile app to use React.
+
+Rationale
+• This option will reduce cost and development time.
+• Native modules with improve performance across all devices.
+• Access to third party plugins will allow easy use of maps and package tracking.
+
+Consequences
+• Will take longer to initialize.
+• The framework is open-source and will pose a security risk. An alternative way 
+to improve security will be needed.

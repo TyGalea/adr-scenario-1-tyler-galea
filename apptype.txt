@@ -1,0 +1,21 @@
+Context: Determining the app type that the mobile app will be.
+
+Options Considered:
+• Native app
+• Web app
+• Hybrid app
+
+Decision:
+The decision is made for the mobile app to be a hybrid app.
+
+Rationale
+• This type is cost efficient and easy to market.
+• It provides a consistent user experience across platforms.
+• Allows the app to be used offline.
+• It can send push notifications to the user.
+• It will provide a wider reach for international users.
+• Web access will provide syncing with the company’s servers when their is an internet connection.
+
+Consequences
+• App will not be optimized for individual platforms which will decrease overall performance when 
+compared to the native app option.
